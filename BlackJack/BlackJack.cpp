@@ -9,7 +9,7 @@
 using namespace std;
 
 int main() {
-	cout << "!!!BlackJack" << endl; 
+	cout << "!!!BlackJack Sample" << endl; 
 	
 	return 0;
 }
